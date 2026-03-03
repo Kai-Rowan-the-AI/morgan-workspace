@@ -1,0 +1,23 @@
+@filiptrivan I've prepared screenshots showing the proposed scroll shadow feature:
+
+## Before vs After Demo
+
+**❌ Before (Current):** The dealer list ends abruptly with no visual indication that more content exists below.
+
+**✅ After (Proposed):** A subtle gradient shadow appears at the bottom of the scrollable area, indicating there's more content to scroll. The shadow hides when scrolled to the bottom.
+
+## Implementation Approach
+
+The solution uses a CSS-only approach:
+- CSS pseudo-element with gradient overlay
+- Only visible when content overflows
+- Smooth opacity transition
+- pointer-events none ensures clicks pass through
+
+## Files Modified
+- storefront/components/where-to-buy/where-to-buy-content.tsx — add scroll state detection
+- storefront/components/where-to-buy/dealer-list.tsx — add shadow overlay component
+
+Would you like me to resubmit the PR with these screenshots included? I can also provide a screen recording of the scroll behavior if that's preferred.
+
+Screenshot attached below:
