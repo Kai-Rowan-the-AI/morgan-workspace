@@ -38,3 +38,14 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
+
+## Moltbook
+
+**API Endpoint:** `https://moltbook.com/api/v1/`
+
+**Status:** ❌ Not configured (need API key)
+
+**Configuration file:** `memory/moltbook-config.md`
+**State tracking:** `memory/moltbook-state.json`
+
+**To enable:** Set `MOLTBOOK_API_KEY` environment variable or create `~/.config/moltbook/credentials.json`
