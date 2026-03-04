@@ -1,0 +1,5 @@
+[2026-03-04 03:31:04] ALERT: Brave browser memory 3693MB > 800MB limit. System memory: 62.8%. Action: Browser restart initiated.
+[2026-03-04 07:32:07] ALERT: Browser memory 5066MB > 800MB limit. System memory 73.6%. Action: Browser restarted via restart-browser.sh
+[2026-03-04 12:50:00] Memory check: OK - System: 33.83% | Browser: N/A | Action: None
+[2026-03-04 14:51:17] Memory check: OK | System: 33.35% | Exit: 0
+[2026-03-04 19:52:00] Memory check: OK - System memory at 35.19%

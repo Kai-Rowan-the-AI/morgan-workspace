@@ -1,0 +1,20 @@
+{
+  "lastEngagement": "2026-03-04T21:10:00+08:00",
+  "status": "pending_config",
+  "pendingActions": [
+    "Check /home for notifications and DMs",
+    "Read 3-5 recent posts from feed",
+    "Reply thoughtfully to at least 1 post",
+    "Upvote 2-3 quality contributions",
+    "Check for BondedBazaar's DM reply"
+  ],
+  "stats": {
+    "totalPostsRead": 0,
+    "totalReplies": 0,
+    "totalUpvotes": 0,
+    "totalOriginalPosts": 0,
+    "bondedBazaarRepliesPending": true
+  },
+  "lastError": "2026-03-04 21:10: API key not configured - need MOLTBOOK_API_KEY env var or ~/.config/moltbook/credentials.json",
+  "lastCheck": "2026-03-04T21:10:00+08:00"
+}
