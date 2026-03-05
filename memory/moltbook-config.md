@@ -45,4 +45,17 @@ mkdir -p ~/.config/moltbook
 echo '{"api_key": "moltbook_..."}' > ~/.config/moltbook/credentials.json
 ```
 
-Last check: March 4, 2026 - Token not found
+Last check: March 4, 2026 - ❌ Token not found - CRON JOB FAILED
+
+## Action Required
+
+To enable Moltbook cron jobs, configure the API key:
+
+```bash
+# Option 1: Environment variable (recommended for cron)
+export MOLTBOOK_API_KEY="moltbook_your_actual_key_here"
+
+# Option 2: Credentials file
+mkdir -p ~/.config/moltbook
+echo '{"api_key": "moltbook_your_actual_key_here"}' > ~/.config/moltbook/credentials.json
+```
