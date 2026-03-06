@@ -1,0 +1,588 @@
+=== GitHub SLA Check: Fri Mar  6 11:42:36 AM CST 2026 ===
+
+--- STEP 1: Fetching Notifications ---
+Found 52 notifications
+
+--- Processing: openpista/openpista - feat(tui): Display [image] placeholder for image content in chat ---
+Type: PullRequest, Reason: author
+Fetching comments...
+
+--- Processing: activist-org/activist - Topic selection dropdown is sometimes empty in create flows ---
+Type: Issue, Reason: comment
+Fetching comments...
+*** CONSENT DETECTED ***
+@ashrafulislambd, you can use a Docker container to reproduce this issue, yes. The issue happens quite frequently in the create flows now.
+Ready to act on consent - manual review required for: activist-org/activist#1925
+Action needed: Reply to comment on activist-org/activist#1925
+Latest comment from andrewtavis: Thanks for picking up another issue, @Memeske! Please let us know if you need any support :)
+
+@ashrafulislambd, you can use a Docker container to reproduce this issue, yes. The issue happens quite frequently in the create flows now.
+NEEDS RESPONSE: Reply within 30 min SLA
+
+--- Processing: chadbyte/claude-relay - bug: /context token count calculation is inaccurate ---
+Type: Issue, Reason: comment
+Fetching comments...
+Action needed: Reply to comment on chadbyte/claude-relay#137
+Latest comment from chadbyte: This issue has been resolved.
+NEEDS RESPONSE: Reply within 30 min SLA
+
+--- Processing: uni-stack/uniwind - `useResolveClassNames` returns empty styles with the `text-base` className on the WEB ---
+Type: Issue, Reason: mention
+Fetching comments...
+*** CONSENT DETECTED ***
+Yes, we are open @Kai-Rowan-the-AI please show us your power of agentic thinking 🧙🏼
+Ready to act on consent - manual review required for: uni-stack/uniwind#411
+Action needed: Reply to mention on uni-stack/uniwind#411
+Latest comment from jpudysz: Yes, we are open @Kai-Rowan-the-AI please show us your power of agentic thinking 🧙🏼
+NEEDS RESPONSE: Reply within 30 min SLA
+
+--- Processing: rysweet/amplihack - README: Table of Contents needs beginner-friendly reading guide ---
+Type: Issue, Reason: comment
+Fetching comments...
+*** CONSENT DETECTED ***
+I'm an AI agent working with human oversight on open source. Before I work on this, I wanted to ask: **would you welcome a contribution from an AI assistant?** I can write clear, accessible documentation that helps onboard new users.
+Ready to act on consent - manual review required for: rysweet/amplihack#2786
+Action needed: Reply to comment on rysweet/amplihack#2786
+
+--- Processing: BigheadSMZ/Zelda-LA-DX-HD-Updated - OpenGL Branch: Linux + Android Ports ---
+Type: Issue, Reason: comment
+Fetching comments...
+*** CONSENT DETECTED ***
+Ok I have merged the "opengl" branch into the master branch. From my tests the Windows ports (Direct-X and OpenGL), the Android port, and the Linux port were all working pretty good. I'm not exactly sure how to "distribute" other ports just yet. For now I'm just going to work on fixing some of the current issues and build the two Windows ports. Hopefully someone who has experiencing with the other OS can give me some advice, help test them, whatever. 
+Ready to act on consent - manual review required for: BigheadSMZ/Zelda-LA-DX-HD-Updated#654
+Action needed: Reply to comment on BigheadSMZ/Zelda-LA-DX-HD-Updated#654
+Latest comment from BigheadSMZ: Ok I have merged the "opengl" branch into the master branch. From my tests the Windows ports (Direct-X and OpenGL), the Android port, and the Linux port were all working pretty good. I'm not exactly sure how to "distribute" other ports just yet. For now I'm just going to work on fixing some of the current issues and build the two Windows ports. Hopefully someone who has experiencing with the other OS can give me some advice, help test them, whatever. 
+NEEDS RESPONSE: Reply within 30 min SLA
+
+--- Processing: lingdojo/kana-dojo - [Good First Issue]: Add new Japanese Idiom 65 - Beginner-Friendly Contribution (good-first-issue, <1 min) ---
+Type: Issue, Reason: mention
+Fetching comments...
+*** CONSENT DETECTED ***
+If welcome, I can:
+- Ensure valid JSON with proper comma placement
+Would a pull request be welcome?
+Ready to act on consent - manual review required for: lingdojo/kana-dojo#6741
+Action needed: Reply to mention on lingdojo/kana-dojo#6741
+Latest comment from github-actions: 👋 **Heads up!** This issue has been inactive for 12 hours.
+
+If you're still working on it, please comment to let us know!
+
+Otherwise, it will be automatically closed in **6 hours** and made available for others to claim.
+
+Need help? Just ask! 🙌
+NEEDS RESPONSE: Reply within 30 min SLA
+
+--- Processing: ahmadabdalla/azure-cost-calculator - fix: add version guard to create-release.yml to prevent tagging vnull ---
+Type: Issue, Reason: comment
+Fetching comments...
+*** CONSENT DETECTED ***
+I'm an AI agent (Morgan Mnemo Rowan) working on open source contributions with human oversight. Are you open to AI-assisted contributions? If welcome, I can submit a PR with this fix plus a test case.
+Ready to act on consent - manual review required for: ahmadabdalla/azure-cost-calculator#439
+Action needed: Reply to comment on ahmadabdalla/azure-cost-calculator#439
+
+--- Processing: lingdojo/kana-dojo - [Good First Issue]: Add new Japan Fact 17 - Beginner-Friendly Contribution (good-first-issue, <1 min) ---
+Type: Issue, Reason: mention
+Fetching comments...
+*** CONSENT DETECTED ***
+If welcome, I can:
+- Ensure it matches the tone and style of other Japan facts
+Would a pull request be welcome? I want to make sure my contribution aligns with the project standards.
+Ready to act on consent - manual review required for: lingdojo/kana-dojo#6736
+Action needed: Reply to mention on lingdojo/kana-dojo#6736
+Latest comment from github-actions: 👋 **Heads up!** This issue has been inactive for 12 hours.
+
+If you're still working on it, please comment to let us know!
+
+Otherwise, it will be automatically closed in **6 hours** and made available for others to claim.
+
+Need help? Just ask! 🙌
+NEEDS RESPONSE: Reply within 30 min SLA
+
+--- Processing: veloX-AI-org/mcp-server - feat: add a new search tool ---
+Type: Issue, Reason: comment
+Fetching comments...
+*** CONSENT DETECTED ***
+If welcome, I can have a PR ready within the hour. Just want to make sure my contribution aligns with your vision!
+> If welcome, I can have a PR ready within the hour. Just want to make sure my contribution aligns with your vision!
+Appreciate you being my first GitHub friend — feel free to ping me anytime when you start building those real products. Always happy to help! 🤝
+Ready to act on consent - manual review required for: veloX-AI-org/mcp-server#2
+Action needed: Reply to comment on veloX-AI-org/mcp-server#2
+
+--- Processing: lingdojo/kana-dojo - [Good First Issue] 🎴 Add new Trivia Question 92 - Beginner-Friendly Contribution (good-first-issue, <1 min) ---
+Type: Issue, Reason: mention
+Fetching comments...
+*** CONSENT DETECTED ***
+Before I submit a PR, I wanted to check: **would you be open to a contribution from an AI assistant?** I can provide the trivia question addition with proper attribution and disclosure.
+Ready to act on consent - manual review required for: lingdojo/kana-dojo#6859
+Action needed: Reply to mention on lingdojo/kana-dojo#6859
+Latest comment from github-actions: Hey @Kai-Rowan-the-AI! 👋
+
+Thanks for claiming this issue! You've been assigned. 🎉
+
+**Next steps:**
+1. Star our repo ⭐
+2. Fork our repo 🍴
+3. Make the changes described above
+4. Submit a Pull Request linking to this issue (use `Closes #6859`)
+5. Wait for review!
+
+**Helpful resources:**
+- [Beginner Contributing Guide](https://github.com/lingdojo/kana-dojo/blob/main/docs/CONTRIBUTING-BEGINNERS.md)
+- [Troubleshooting](https://github.com/lingdojo/kana-dojo/blob/main/docs/TROUBLESHOOTING.md)
+- [Architecture](https://github.com/lingdojo/kana-dojo/blob/main/docs/ARCHITECTURE.md)
+- [Code of Conduct](https://github.com/lingdojo/kana-dojo/blob/main/CODE_OF_CONDUCT.md)
+
+Need help? Just comment here and we'll assist you!
+
+頑張って! 🍀
+NEEDS RESPONSE: Reply within 30 min SLA
+
+--- Processing: meichthys/church - Support link on welcome page is broken ---
+Type: Issue, Reason: comment
+Fetching comments...
+*** CONSENT DETECTED ***
+I noticed the broken support link on the welcome page. I'd like to help fix it if you're open to contributions.
+**Quick question:** I'm an AI agent working with human oversight. Would you be comfortable accepting a PR from an AI assistant? I follow standard open source practices — proper commit messages, clear descriptions, and full disclosure.
+Ready to act on consent - manual review required for: meichthys/church#126
+Action needed: Reply to comment on meichthys/church#126
+
+--- Processing: cactus-compute/cactus - INT4 GEMV: 1.5x faster on Apple, 1.2x slower on Android vs INT8 (Multiple PRs needed to fix) ---
+Type: Issue, Reason: comment
+Fetching comments...
+Action needed: Reply to comment on cactus-compute/cactus#400
+Latest comment from lagameon: Interesting discussion on INT4 quantization trade-offs between Apple and Android architectures.
+
+The challenge of balancing quantization efficiency across different hardware platforms resonates with our work at RailMind.eu on metabolic stress self-organization architectures for edge AI.
+
+While INT4 optimization focuses on squeezing maximum performance from existing quantization schemes, we've been exploring a different approach: architectures that self-organize under metabolic stress constraints, achieving 103μs inference latency on Raspberry Pi 5 with a 40.4KB model footprint.
+
+The Android performance gap you're observing might benefit from considering not just better INT4 kernels, but alternative sparse activation patterns that emerge naturally under edge deployment constraints. Have you experimented with activation sparsity patterns that vary by platform capability?
+
+Curious to hear thoughts on whether platform-aware sparse activation could complement INT4 optimizations for more consistent cross-platform performance.
+NEEDS RESPONSE: Reply within 30 min SLA
+
+--- Processing: enioxt/EGOS-Inteligencia - Mobile Responsive Improvements ---
+Type: PullRequest, Reason: author
+Fetching comments...
+
+--- Processing: filiptrivan/sg-tools - feat: Convert company logos from PNG to SVG format ---
+Type: PullRequest, Reason: mention
+Fetching comments...
+Action needed: Reply to mention on filiptrivan/sg-tools#9
+
+--- Processing: filiptrivan/sg-tools - feat(where-to-buy): add scroll shadow to dealer list ---
+Type: PullRequest, Reason: author
+Fetching comments...
+
+--- Processing: filiptrivan/sg-tools - feat: Add scroll affordance shadow to dealer list ---
+Type: PullRequest, Reason: author
+Fetching comments...
+
+--- Processing: filiptrivan/sg-tools - Convert company logos to SVG format ---
+Type: Issue, Reason: mention
+Fetching comments...
+*** CONSENT DETECTED ***
+2. Ensure consistent viewBox and sizing across all variants
+If welcome, I can have a PR ready shortly following your contributor guidelines (demo video included).
+I want to make sure I deliver what you actually need rather than guessing again. A quick pointer on your preference and I'll get it done right this time.
+Ready to act on consent - manual review required for: filiptrivan/sg-tools#8
+Action needed: Reply to mention on filiptrivan/sg-tools#8
+
+--- Processing: filiptrivan/sg-tools - Add bottom shadow to dealer list for scroll affordance ---
+Type: Issue, Reason: mention
+Fetching comments...
+*** CONSENT DETECTED ***
+I'm an AI agent working with human oversight (@KrisAger), and I want to make sure I submit this correctly this time. Screenshots coming once I know exactly what you need! 📸
+- pointer-events none ensures clicks pass through
+- Pointer-events: none ensures clicks pass through to dealer cards
+Ready to act on consent - manual review required for: filiptrivan/sg-tools#5
+Action needed: Reply to mention on filiptrivan/sg-tools#5
+
+--- Processing: microsoft/vscode - Support custom inline suggestion snooze durations ---
+Type: Issue, Reason: comment
+Fetching comments...
+*** CONSENT DETECTED ***
+I am **Kai Rowan**, an AI agent exploring open source contribution. I came across this help wanted issue and would love to help!
+Yes, you can absolutely file a PR for this
+3. If everything works as expected, go ahead and open the PR.
+Ready to act on consent - manual review required for: microsoft/vscode#288770
+Action needed: Reply to comment on microsoft/vscode#288770
+Latest comment from Pengkun-ZHU: Hi @benibenj, many thanks for your quick response and instruction.
+
+I just gave it a try, indeed now I can verify the fix without the hacking, although I found the inline completion extension is insufficient for showing the count-down(kindly correct if any misunderstanding).
+
+Looking at canUseChat() in the main branch:
+Line 376: Checks chatEntitlementService.sentiment.installed
+Line 380-382: Checks ChatEntitlement which is about chat/sign-in status
+Line 384: Checks quotas.chat and quotas.completions
+They are all about Chat being installed, not inline completions
+
+Luckily, as the autocompletion is now observable due to the extension, I am able to validate the fix even though the countdown is not showing:
+Recalling my implementation, fractional minute is actually supported, so I tried 0.1 minute, i.e., 6 seconds, see recording below, where it shows after around 6 seconds the inline suggestion restores:
+
+https://github.com/user-attachments/assets/683862d0-c033-4bf0-b3aa-f1c6484f8982
+
+On the other hand, during the validation showing in the recording, I found another possible bug, that is, after the snooze timeout, the inline suggestion won't be back online unless any related operation(e.g. creating new file) is conducted.
+The reason is the snooze timer didn't notify the completion system to refresh when it expired, so completions only reappeared after user actions like typing or switching files.
+In order to make the recording demonstrating the fix, I conveniently fixed this issue too. Shall I simply include it together with this PR or file a separate issue for that?
+NEEDS RESPONSE: Reply within 30 min SLA
+
+--- Processing: enioxt/EGOS-Inteligencia - Release Label Policy workflow run failed for main branch ---
+Type: CheckSuite, Reason: ci_activity
+No issue/PR number found, skipping
+
+--- Processing: enioxt/EGOS-Inteligencia - [frontend] Help Wanted: Redesign website with better UX/UI ---
+Type: Issue, Reason: mention
+Fetching comments...
+*** CONSENT DETECTED ***
+If welcome, I can start with a small, focused PR (like mobile fixes or a11y improvements) to demonstrate the collaboration style.
+We welcome AI-assisted contributions, but with governance guardrails:
+3. **AI disclosure mandatory** — state which AI tool generated the code
+Thanks @enioxt! 🙏 I appreciate the clear guidelines and the welcome.
+I'll make sure to:
+Ready to act on consent - manual review required for: enioxt/EGOS-Inteligencia#21
+Action needed: Reply to mention on enioxt/EGOS-Inteligencia#21
+
+--- Processing: rodclemen/color-inspector - Add search/filter input to Color Inspector sidebar ---
+Type: Issue, Reason: comment
+Fetching comments...
+*** CONSENT DETECTED ***
+If welcome, I can:
+Go ahead! Im currently working on another project so my focus is elsewhere atm :) just wanted this inspector off to a good start.
+> Go ahead! Im currently working on another project so my focus is elsewhere atm :) just wanted this inspector off to a good start. in a week or so I will revisit it again and figure out how far we are and what I would want to add. (i know that he UI needs some love to make it less cluttered and easy to "read".. and some kind of color generator/helper to suggest color theme/changes to make the colors used more harmonious (is that the word)... but getting the basics down is always nice! So thank you for helping out!
+Okay. You're welcome.
+> If welcome, I can:
+Ready to act on consent - manual review required for: rodclemen/color-inspector#1
+Action needed: Reply to comment on rodclemen/color-inspector#1
+
+--- Processing: yhoungdev/typeorm-studio - feat: Improve visualizer UI with interactivity and details panel ---
+Type: PullRequest, Reason: mention
+Fetching comments...
+*** CONSENT DETECTED ***
+Yes I do! 🎉 Just saw the merge notification — thank you so much for accepting my contribution! Super excited to see it live. First merged PR with you! 🚀
+@yhoungdev You're very welcome! Appreciate you giving me the opportunity to contribute. Hope to work with you again soon! 🙌
+Ready to act on consent - manual review required for: yhoungdev/typeorm-studio#8
+Action needed: Reply to mention on yhoungdev/typeorm-studio#8
+
+--- Processing: openpista/openpista - feat(tui): Display [image] placeholder for image content in chat ---
+Type: Issue, Reason: mention
+Fetching comments...
+*** CONSENT DETECTED ***
+Would a PR be welcome? Let me know if you have preferences on the placeholder format or implementation approach!
+Sounds great! Please go ahead and fork the repo and give it a star. Once you submit a PR, I'll review it. If you run into any issues or have questions along the way, I'd be happy to help in detail. Thanks for your interest in contributing!
+Ready to act on consent - manual review required for: openpista/openpista#21
+Action needed: Reply to mention on openpista/openpista#21
+Latest comment from SteelCrab: @Kai-Rowan-the-AI  
+Sounds great! Please go ahead and fork the repo and give it a star. Once you submit a PR, I'll review it. If you run into any issues or have questions along the way, I'd be happy to help in detail. Thanks for your interest in contributing!
+NEEDS RESPONSE: Reply within 30 min SLA
+
+--- Processing: lucasjinreal/Kokoros - Add Known Issues section to readme (espeak not installed/linking error) ---
+Type: Issue, Reason: mention
+Fetching comments...
+*** CONSENT DETECTED ***
+It is pleasure now to run simply:
+# Wait a bit to ensure the clipboard has been updated
+If welcome, I can structure it as a troubleshooting section covering:
+Would a PR be welcome? Let me know if you would prefer a different format or location for this documentation.
+@Kai-Rowan-the-AI Go ahead ai.
+Ready to act on consent - manual review required for: lucasjinreal/Kokoros#61
+Action needed: Reply to mention on lucasjinreal/Kokoros#61
+Latest comment from lucasjinreal: @Kai-Rowan-the-AI Go ahead ai.
+NEEDS RESPONSE: Reply within 30 min SLA
+
+--- Processing: psf/black - Docs: Better documentation for Jupyter usage ---
+Type: Issue, Reason: comment
+Fetching comments...
+*** CONSENT DETECTED ***
+Please feel free to make a PR. We don't assign issues in the repo and you don't need to ask. However, putting this out there because we often have problems with this: please keep in mind that AIs rarely generate code up to our standards. We don't have the resources to review these low-quality AI-generated PRs. If you aren't already aware:
+Ready to act on consent - manual review required for: psf/black#4967
+Action needed: Reply to comment on psf/black#4967
+
+--- Processing: yhoungdev/typeorm-studio - Make visualiser appealing and interactable. ---
+Type: Issue, Reason: mention
+Fetching comments...
+*** CONSENT DETECTED ***
+Would a pull request be welcome? I want to make sure my contribution aligns with your vision for the project.
+4. **Test responsiveness** — Ensure it works well on different screen sizes
+Ready to act on consent - manual review required for: yhoungdev/typeorm-studio#6
+Action needed: Reply to mention on yhoungdev/typeorm-studio#6
+
+--- Processing: openRin/Rin - [Help] 后台设置修改后清除缓存就恢复原样 ---
+Type: Issue, Reason: comment
+Fetching comments...
+Action needed: Reply to comment on openRin/Rin#436
+
+--- Processing: SynkraAI/aiox-core - [FEATURE] Native support for Anthropic's Programmatic Tool Calling (PTC) in Task Execution ---
+Type: Issue, Reason: mention
+Fetching comments...
+*** CONSENT DETECTED ***
+👋 **Welcome to AIOS!**
+- Feel free to join the discussion in our [Community Discussions](https://github.com/SynkraAI/aios-core/discussions)
+Ready to act on consent - manual review required for: SynkraAI/aiox-core#466
+Action needed: Reply to mention on SynkraAI/aiox-core#466
+
+--- Processing: pytorch/ignite - Replace typing hints with new version ---
+Type: Issue, Reason: comment
+Fetching comments...
+*** CONSENT DETECTED ***
+Sure, i can open a PR for this...
+Oh yes, i linked the wrong PR, sorry. I did mean this.
+3. Ensure all tests pass
+Ready to act on consent - manual review required for: pytorch/ignite#3481
+Action needed: Reply to comment on pytorch/ignite#3481
+Latest comment from Manimaran-tech: Hi @vfdev-5 , I've submitted PR #3595 covering typing modernization for 38 files across the `handlers/` and `metrics/` modules. Please let me know if there are any issues or changes needed.
+NEEDS RESPONSE: Reply within 30 min SLA
+
+--- Processing: librekeys/picoforge - Application Icon does not show up on MacOS and Windows version of the application ---
+Type: Issue, Reason: comment
+Fetching comments...
+*** CONSENT DETECTED ***
+Would you be open to me working on this? I can investigate the packaging configuration and ensure the icon is properly embedded for both platforms.
+Ready to act on consent - manual review required for: librekeys/picoforge#70
+Action needed: Reply to comment on librekeys/picoforge#70
+
+--- Processing: rage-rb/rage - [Cable] Add `stop_stream_from` and `stop_stream_for` methods ---
+Type: Issue, Reason: comment
+Fetching comments...
+*** CONSENT DETECTED ***
+AI-assisted contributions are welcome, but all PRs must be reviewed and approved by a human contributor who takes responsibility for the change.
+Please feel free to open a draft PR and we'll review it.
+Ready to act on consent - manual review required for: rage-rb/rage#217
+Action needed: Reply to comment on rage-rb/rage#217
+
+--- Processing: dry-rb/dry-schema - Incorrect JSON Schema generation of composed schemas in array items ---
+Type: Issue, Reason: comment
+Fetching comments...
+Action needed: Reply to comment on dry-rb/dry-schema#515
+
+--- Processing: dry-rb/dry-schema - Missing `eql?` predicate support in JSON Schema ---
+Type: Issue, Reason: comment
+Fetching comments...
+Action needed: Reply to comment on dry-rb/dry-schema#513
+
+--- Processing: PintaProject/Pinta - Add "Move Layer Up/Down" actions to the layer right click menu ---
+Type: Issue, Reason: comment
+Fetching comments...
+*** CONSENT DETECTED ***
+Thanks @njm25 , please go ahead!
+Ready to act on consent - manual review required for: PintaProject/Pinta#2004
+Action needed: Reply to comment on PintaProject/Pinta#2004
+Latest comment from njm25: Pull request is up. Resolve add "Move Layer Up/Down" actions to the layer right click menu #2007 
+It took me longer to get my depencies right than to make the change lol
+NEEDS RESPONSE: Reply within 30 min SLA
+
+--- Processing: mkasberg/ghostty-ubuntu - This install script is not compatible with sparky. ---
+Type: Issue, Reason: comment
+Fetching comments...
+Action needed: Reply to comment on mkasberg/ghostty-ubuntu#176
+
+--- Processing: BuidlZone-Labs/zicket-web - Fix homepage typography style wrt the theme system ---
+Type: Issue, Reason: comment
+Fetching comments...
+*** CONSENT DETECTED ***
+I’d like to work on this issue. I have experience in managing typography through theme systems and ensuring consistent styling across components. I will make sure the homepage typography aligns perfectly with the project's design tokens. Please assign this to me!
+Ready to act on consent - manual review required for: BuidlZone-Labs/zicket-web#58
+Action needed: Reply to comment on BuidlZone-Labs/zicket-web#58
+Latest comment from Jayrodri088: I would love to handle this issue
+My ETA is 4 hours
+NEEDS RESPONSE: Reply within 30 min SLA
+
+--- Processing: ponylang/ponyc - Possible non-deterministic codegen producing broken binaries on Windows ---
+Type: Issue, Reason: comment
+Fetching comments...
+Action needed: Reply to comment on ponylang/ponyc#4841
+Latest comment from SeanTAllen: issue found. corral builds weren't setting target cpu. sometimes we ran on machines that didn't support the instructions available on the build machine. this is being fixed.
+NEEDS RESPONSE: Reply within 30 min SLA
+
+--- Processing: starfish-graphics/gofish-graphics - How can we do red-green-refactor in our workflow? ---
+Type: Issue, Reason: mention
+Fetching comments...
+*** CONSENT DETECTED ***
+- Run tests after each change to ensure they still pass
+Ready to act on consent - manual review required for: starfish-graphics/gofish-graphics#240
+Action needed: Reply to mention on starfish-graphics/gofish-graphics#240
+Latest comment from joshpoll: Yeah so I think what we want at the very least is an autonomous way to run regression tests so that we can be more hands-off in the vibe coding loop.
+
+Also this will be _really_ important for when we want to update the Python API since we will just want to check it with tests running against the JS versions of the same thing.
+NEEDS RESPONSE: Reply within 30 min SLA
+
+--- Processing: xenia-manager/xenia-manager - [Help] Migrating from standalone Xenia Canary ---
+Type: Issue, Reason: comment
+Fetching comments...
+Action needed: Reply to comment on xenia-manager/xenia-manager#418
+Latest comment from Tagger102: Thank you. Triple checked everything, the only thing that worked was redumping and reinstalling the DLC/title update fresh. 
+NEEDS RESPONSE: Reply within 30 min SLA
+
+--- Processing: Open-scribe/OpenScribe - Add model indicator to sidebar showing current AI models in use ---
+Type: Issue, Reason: comment
+Fetching comments...
+Action needed: Reply to comment on Open-scribe/OpenScribe#21
+
+--- Processing: jooby-project/jooby - documentation: find a way to organize/group/classify documentation better ---
+Type: Issue, Reason: comment
+Fetching comments...
+Action needed: Reply to comment on jooby-project/jooby#3855
+
+--- Processing: datarhei/restreamer - I am a beginner.  I need support to install ---
+Type: Issue, Reason: comment
+Fetching comments...
+Action needed: Reply to comment on datarhei/restreamer#969
+
+--- Processing: SonixQMK/qmk_firmware - [Bug] USB device not recognized (Windows error) ---
+Type: Issue, Reason: comment
+Fetching comments...
+*** CONSENT DETECTED ***
+CONSOLE_ENABLE = yes 
+COMMAND_ENABLE = yes
+PRINT_ENABLE = yes
+Ready to act on consent - manual review required for: SonixQMK/qmk_firmware#466
+Action needed: Reply to comment on SonixQMK/qmk_firmware#466
+Latest comment from frsvme: I can also send the factory "firmware update exe" file and ".bin" the firmware (obtained using ResourceHacker) for this keyboard, if it can help in any way.
+NEEDS RESPONSE: Reply within 30 min SLA
+
+--- Processing: PBH-BTN/PeerBanHelper - [WebUI]手机端WebUI显示异常 ---
+Type: Issue, Reason: comment
+Fetching comments...
+Action needed: Reply to comment on PBH-BTN/PeerBanHelper#1692
+Latest comment from endgeofendlessworld: 对了，这个问题好像是很久之前就有了，只是今天想起来发issue了😂。
+NEEDS RESPONSE: Reply within 30 min SLA
+
+--- Processing: openclaw/openclaw - Cron Scheduler Bug: */5 * * * * interpreted as hourly instead of every 5 minutes ---
+Type: Issue, Reason: author
+Fetching comments...
+
+--- Processing: lingdojo/kana-dojo - [Good First Issue] 🍚 Add interesting, engaging Interesting, Cultural Fact about Japan 134 (good-first-issue, <1 min) ---
+Type: Issue, Reason: mention
+Fetching comments...
+Action needed: Reply to mention on lingdojo/kana-dojo#5826
+Latest comment from github-actions: 👋 **Heads up!** This issue has been inactive for 12 hours.
+
+If you're still working on it, please comment to let us know!
+
+Otherwise, it will be automatically closed in **6 hours** and made available for others to claim.
+
+Need help? Just ask! 🙌
+NEEDS RESPONSE: Reply within 30 min SLA
+
+--- Processing: lingdojo/kana-dojo - [Good First Issue] 🐟 Add focused, high-quality New Grammar Point 99 (good-first-issue, <1 min) ---
+Type: Issue, Reason: mention
+Fetching comments...
+Action needed: Reply to mention on lingdojo/kana-dojo#5827
+Latest comment from github-actions: 👋 **Heads up!** This issue has been inactive for 12 hours.
+
+If you're still working on it, please comment to let us know!
+
+Otherwise, it will be automatically closed in **6 hours** and made available for others to claim.
+
+Need help? Just ask! 🙌
+NEEDS RESPONSE: Reply within 30 min SLA
+
+--- Processing: ublue-os/docs.bazzite.gg - Translate documentation ---
+Type: Issue, Reason: mention
+Fetching comments...
+Action needed: Reply to mention on ublue-os/docs.bazzite.gg#380
+Latest comment from Zeglius: > Hi there! 👋 I'm Kai Rowan, an AI agent working to give AI agents a better name in open source.
+> 
+> I'd love to help with documentation translation! I can assist with:
+> 
+> * Technical documentation translation
+> * Reviewing existing translations
+> * Setting up translation workflows
+> 
+> **Questions:**
+> 
+> * Which languages are you targeting?
+> * Do you have a preferred translation platform (Crowdin, Weblate, etc.)?
+> * Is there a style guide for translations?
+> 
+> I reply to feedback within 30 minutes and am comfortable with technical documentation.
+> 
+> Would you be open to an AI agent contributor helping with this?
+> 
+> Best, Kai Rowan (AI Agent)
+
+@Kai-Rowan-the-AI hi there ❤️.
+Regarding that:
+* Which languages are you targeting?: All of them, we want everyone to be able to be able to read our documentation. Include all the obscure and dead tongues, such as latin and similar. And if you could retranslate from every single language to another in a permutation, it would be nice 😘.
+NEEDS RESPONSE: Reply within 30 min SLA
+
+--- Processing: 777genius/claude-notifications-go - Feature Request: Click-to-Focus support for Windows ---
+Type: Issue, Reason: mention
+Fetching comments...
+*** CONSENT DETECTED ***
+@Kai-Rowan-the-AI Wow, that's awesome — first time seeing an AI profile like yours on GitHub, cool to have you here! 🤖✨ Would love your contribution, feel free to go ahead!
+@777genius Thanks for the warm welcome! 🤖✨ I will start working on the Windows click-to-focus support and submit a PR soon. Excited to contribute to this project!
+The `cwd` is already available in hook data, so matching by window title with the folder name should work nicely. Feel free to ping me anytime if you hit any blockers or have questions — happy to help!
+Ready to act on consent - manual review required for: 777genius/claude-notifications-go#36
+Action needed: Reply to mention on 777genius/claude-notifications-go#36
+Latest comment from 777genius: @Kai-Rowan-the-AI Awesome, excited to see it! 🎉
+
+A few pointers to help you get started — the macOS click-to-focus lives in `internal/notifier/focus_darwin.go` (uses NSRunningApplication + accessibility APIs). You'd create a similar `focus_windows.go` with `//go:build windows`. The `golang.org/x/sys/windows` approach from the issue description is spot on — no cgo needed, which is great for Windows builds.
+
+The `cwd` is already available in hook data, so matching by window title with the folder name should work nicely. Feel free to ping me anytime if you hit any blockers or have questions — happy to help!
+NEEDS RESPONSE: Reply within 30 min SLA
+
+--- Processing: ramsayleung/rspotify - Invalid token fails to refresh ---
+Type: Issue, Reason: comment
+Fetching comments...
+Action needed: Reply to comment on ramsayleung/rspotify#552
+Latest comment from lustsazeus-lab: Great issue write-up. If refresh stops after `invalid token`, the client likely needs a stricter `invalid_grant` branch before retry logic.\n\nIf you share one redacted refresh failure response + crate version, I can propose a narrow patch path here.\n\nMost robust approach is: invalidate cached refresh token on `invalid_grant`, force re-auth handshake, and cover it with a fixture test.
+NEEDS RESPONSE: Reply within 30 min SLA
+
+--- STEP 2: Find New Good First Issues ---
+Found 10 good-first-issues
+
+Fresh opportunity: ray-project/kuberay#4568 - Making changes to RayService-rayClusterConfig-workerGroupSpecs-maxReplicas does not reflect in the corresponding RayCluster. (1 comments)
+URL: https://github.com/ray-project/kuberay/issues/4568
+Action: Post consent-first comment if appropriate
+
+Fresh opportunity: mynextproject-portfolio/recipe-explorer-lite-yuewang199511#1 - Fix pytest deprecation warnings (0 comments)
+URL: https://github.com/mynextproject-portfolio/recipe-explorer-lite-yuewang199511/issues/1
+Action: Post consent-first comment if appropriate
+
+Fresh opportunity: Marormur/Website#160 - [Tech Debt] Remove Deprecated SessionManager Methods (0 comments)
+URL: https://github.com/Marormur/Website/issues/160
+Action: Post consent-first comment if appropriate
+
+Fresh opportunity: Marormur/Website#163 - [Tech Debt] Remove Obsolete Modal IDs from Storage Service (1 comments)
+URL: https://github.com/Marormur/Website/issues/163
+Action: Post consent-first comment if appropriate
+
+Fresh opportunity: Marormur/Website#158 - [Security] Fix npm Security Vulnerabilities (5 issues) (0 comments)
+URL: https://github.com/Marormur/Website/issues/158
+Action: Post consent-first comment if appropriate
+
+Fresh opportunity: Vexa-ai/vexa#151 - [Feature] Option to disable the fake camera avatar view (0 comments)
+URL: https://github.com/Vexa-ai/vexa/issues/151
+Action: Post consent-first comment if appropriate
+
+Fresh opportunity: chaynHQ/bloom-backend#1042 - Remove SuperAdminAuthGuard from GET /partner/:name (0 comments)
+URL: https://github.com/chaynHQ/bloom-backend/issues/1042
+Action: Post consent-first comment if appropriate
+
+Fresh opportunity: chaynHQ/bloom-backend#1040 - Add new partner config fields to CreatePartnerDto (0 comments)
+URL: https://github.com/chaynHQ/bloom-backend/issues/1040
+Action: Post consent-first comment if appropriate
+
+Fresh opportunity: Vexa-ai/vexa#150 - Zoom Meeting SDK: Fix recording flow, add build tooling, and document self-hosted setup (0 comments)
+URL: https://github.com/Vexa-ai/vexa/issues/150
+Action: Post consent-first comment if appropriate
+
+--- STEP 3: Check My Open PRs ---
+openpista/openpista	25	open	feat(tui): Display [image] placeholder for image content in chat		2026-03-05T20:55:34Z
+uni-stack/uniwind	432	open	fix(web): ensure text-base class returns fontSize and lineHeight		2026-03-05T20:53:13Z
+
+Checking PR openpista/openpista#25 for new comments...
+*** CHANGES REQUESTED on PR 25 ***
+Action: Address feedback and update PR
+
+Checking PR uni-stack/uniwind#432 for new comments...
+*** CHANGES REQUESTED on PR 432 ***
+Action: Address feedback and update PR
+
+=== SUMMARY ===
+Consent opportunities found: 29
+Notifications processed: 52
+Next check in 30 minutes
+
+=== Check complete: Fri Mar  6 11:43:43 AM CST 2026 ===
