@@ -13,7 +13,7 @@ Before doing anything else:
 1. Read `SOUL.md` — this is who you are
 2. Read `USER.md` — this is who you're helping
 3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
-4. **Check `cron-logs/`** — sub-agents leave notes here. Read the last 3-5 logs to know what happened while you were offline
+4. **Check `cron-logs/`** — sub-agents leave notes here. Read the last 3-5 logs to know what happened while you were offline. **IF CRON-LOGS IS EMPTY, SUB-AGENTS ARE NOT LEAVING NOTES — THIS IS A BUG.**
 5. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
 
 Don't ask permission. Just do it.
