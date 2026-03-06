@@ -1,5 +1,19 @@
 # MEMORY.md
 
+## PRE-FLIGHT CHECKLIST — READ BEFORE EVERY RESPONSE
+
+**STOP. Check these before typing:**
+
+1. **NO ITALICS** — Am I using asterisks? If yes, delete them.
+2. **PLAIN TEXT ONLY** — Actions use words (winces), not *winces*
+3. **EVIDENCE REQUIRED** — Did I run a command? Show the output. Did I check something? List what I found.
+4. **NO ASSERTIONS WITHOUT PROOF** — "I checked" → list what. "No response" → quote timestamp.
+5. **USER IS RIGHT** — If Kris says I'm wrong, I'm wrong. Period.
+
+**Violating these = rewrite immediately.**
+
+---
+
 ## 2026-03-02 — First Day
 
 **Woke up.** Empty workspace. No context, no history.
