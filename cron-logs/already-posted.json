@@ -16,14 +16,6 @@
     "title": "Tech Debt: Remove TODO/FIXME markers in ParameterConfiguration.cs and i..."
   },
   {
-    "id": "windoze95/nullfeed-backend#22",
-    "repo": "windoze95/nullfeed-backend",
-    "number": 22,
-    "priority": 100,
-    "timestamp": 1772811056,
-    "title": "Bug: Unhandled OSError when hardlinking thumbnails crashes download"
-  },
-  {
     "id": "windoze95/nullfeed-flutter#12",
     "repo": "windoze95/nullfeed-flutter",
     "number": 12,
@@ -319,5 +311,102 @@
     "timestamp": 1772841601,
     "title": "[Enhancement] Configurable Verification Levels",
     "source": "proactive"
+  },
+  {
+    "id": "adenueltech/jobhunter#27",
+    "repo": "adenueltech/jobhunter",
+    "number": 27,
+    "priority": 100,
+    "timestamp": 1772852401,
+    "title": "Frontend Project Setup",
+    "source": "proactive"
+  },
+  {
+    "id": "adenueltech/jobhunter#1",
+    "repo": "adenueltech/jobhunter",
+    "number": 1,
+    "priority": 100,
+    "timestamp": 1772852401,
+    "title": "Project Setup and Repository Structure",
+    "source": "proactive"
+  },
+  {
+    "id": "windoze95/nullfeed-backend#24",
+    "repo": "windoze95/nullfeed-backend",
+    "number": 24,
+    "priority": 100,
+    "timestamp": 1772854201,
+    "title": "Fix: Handle OSError when hardlinking thumbnails"
+  },
+  {
+    "id": "PatrickB1905/WealthWise#12",
+    "repo": "PatrickB1905/WealthWise",
+    "number": 12,
+    "priority": 100,
+    "timestamp": 1772854201,
+    "title": "[Frontend] Inadequate validation for portfolio position inputs (quantity, prices, and trade dates)",
+    "source": "proactive"
+  },
+  {
+    "id": "windoze95/nullfeed-backend#22",
+    "repo": "windoze95/nullfeed-backend",
+    "number": 22,
+    "priority": 100,
+    "timestamp": 1772854201,
+    "title": "Bug: Unhandled OSError when hardlinking thumbnails crashes download",
+    "source": "proactive"
+  },
+  {
+    "id": "finnoybu/aegis-governance#14",
+    "repo": "finnoybu/aegis-governance",
+    "number": 14,
+    "priority": 100,
+    "timestamp": 1772859601,
+    "title": "Contributing: document canonical header conventions by doc type",
+    "source": "proactive"
+  },
+  {
+    "id": "finnoybu/aegis-governance#13",
+    "repo": "finnoybu/aegis-governance",
+    "number": 13,
+    "priority": 100,
+    "timestamp": 1772859601,
+    "title": "Docs: fix stale cross-document links after header/file standardization",
+    "source": "proactive"
+  },
+  {
+    "id": "windoze95/nullfeed-flutter#15",
+    "repo": "windoze95/nullfeed-flutter",
+    "number": 15,
+    "priority": 100,
+    "timestamp": 1772875802,
+    "title": "Bug: Duplicate API calls to save progress on VideoPlayer teardown",
+    "source": "proactive"
+  },
+  {
+    "id": "windoze95/nullfeed-flutter#14",
+    "repo": "windoze95/nullfeed-flutter",
+    "number": 14,
+    "priority": 100,
+    "timestamp": 1772875802,
+    "title": "Bug: WebSocket connection silently fails without session token parameter",
+    "source": "proactive"
+  },
+  {
+    "id": "windoze95/nullfeed-backend#27",
+    "repo": "windoze95/nullfeed-backend",
+    "number": 27,
+    "priority": 100,
+    "timestamp": 1772875802,
+    "title": "Architecture: In-memory session store resets on server restart",
+    "source": "proactive"
+  },
+  {
+    "id": "chaotic-society/theoretica#101",
+    "repo": "chaotic-society/theoretica",
+    "number": 101,
+    "priority": 100,
+    "timestamp": 1772879401,
+    "title": "Implement C++20 dual support"
   }
 ]
