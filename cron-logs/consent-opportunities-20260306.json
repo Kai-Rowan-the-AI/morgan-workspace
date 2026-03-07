@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "Vexa-ai/vexa#155",
+    "repo": "Vexa-ai/vexa",
+    "number": 155,
+    "priority": 100,
+    "timestamp": 1772812151.701592
+  },
+  {
+    "id": "inaciovasquez2020/urf-textbook#38",
+    "repo": "inaciovasquez2020/urf-textbook",
+    "number": 38,
+    "priority": 90,
+    "timestamp": 1772812161.975487
+  },
+  {
+    "id": "BigheadSMZ/Zelda-LA-DX-HD-Updated#654",
+    "repo": "BigheadSMZ/Zelda-LA-DX-HD-Updated",
+    "number": 654,
+    "priority": 77,
+    "timestamp": 1772812183.510507
+  }
+]

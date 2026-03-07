@@ -1,46 +1,323 @@
 [
-  "activist-org/activist#1925",
-  "uni-stack/uniwind#411",
-  "rysweet/amplihack#2786",
-  "BigheadSMZ/Zelda-LA-DX-HD-Updated#654",
-  "lingdojo/kana-dojo#6741",
-  "ahmadabdalla/azure-cost-calculator#439",
-  "lingdojo/kana-dojo#6736",
-  "veloX-AI-org/mcp-server#2",
-  "lingdojo/kana-dojo#6859",
-  "meichthys/church#126",
-  "filiptrivan/sg-tools#8",
-  "filiptrivan/sg-tools#5",
-  "microsoft/vscode#288770",
-  "enioxt/EGOS-Inteligencia#21",
-  "rodclemen/color-inspector#1",
-  "yhoungdev/typeorm-studio#8",
-  "openpista/openpista#21",
-  "lucasjinreal/Kokoros#61",
-  "psf/black#4967",
-  "yhoungdev/typeorm-studio#6",
-  "SynkraAI/aiox-core#466",
-  "pytorch/ignite#3481",
-  "librekeys/picoforge#70",
-  "rage-rb/rage#217",
-  "PintaProject/Pinta#2004",
-  "BuidlZone-Labs/zicket-web#58",
-  "starfish-graphics/gofish-graphics#240",
-  "SonixQMK/qmk_firmware#466",
-  "777genius/claude-notifications-go#36",
-  "ray-project/kuberay#4568",
-  "mynextproject-portfolio/recipe-explorer-lite-yuewang199511#1",
-  "Marormur/Website#160",
-  "Marormur/Website#163",
-  "Marormur/Website#158",
-  "cclib/cclib#1746",
-  "Vexa-ai/vexa#151",
-  "chaynHQ/bloom-backend#1042",
-  "chaynHQ/bloom-backend#1040",
-  "uni-stack/uniwind#432",
-  "inaciovasquez2020/urf-textbook#38",
-  "windoze95/nullfeed-flutter#12",
-  "windoze95/nullfeed-backend#22",
-  "Vexa-ai/vexa#155",
-  "VATSIM-UK/UK-Sector-File#6064"
+  {
+    "id": "ray-project/kuberay#4568",
+    "repo": "ray-project/kuberay",
+    "number": 4568,
+    "priority": 97,
+    "timestamp": 1772811056,
+    "title": "Making changes to RayService-rayClusterConfig-workerGroupSpecs-maxReplicas does not reflect in the corresponding RayCluster."
+  },
+  {
+    "id": "brendankowitz/FHIR-Tools-for-Anonymization#61",
+    "repo": "brendankowitz/FHIR-Tools-for-Anonymization",
+    "number": 61,
+    "priority": 74,
+    "timestamp": 1772811056,
+    "title": "Tech Debt: Remove TODO/FIXME markers in ParameterConfiguration.cs and i..."
+  },
+  {
+    "id": "windoze95/nullfeed-backend#22",
+    "repo": "windoze95/nullfeed-backend",
+    "number": 22,
+    "priority": 100,
+    "timestamp": 1772811056,
+    "title": "Bug: Unhandled OSError when hardlinking thumbnails crashes download"
+  },
+  {
+    "id": "windoze95/nullfeed-flutter#12",
+    "repo": "windoze95/nullfeed-flutter",
+    "number": 12,
+    "priority": 100,
+    "timestamp": 1772811056,
+    "title": "Bug: Exiting video player blocks UI navigation on network request"
+  },
+  {
+    "id": "Vexa-ai/vexa#155",
+    "repo": "Vexa-ai/vexa",
+    "number": 155,
+    "priority": 100,
+    "timestamp": 1772812134,
+    "title": "Expand hallucination blocklist to 10+ languages with community-contributed phrases"
+  },
+  {
+    "id": "inaciovasquez2020/urf-textbook#38",
+    "repo": "inaciovasquez2020/urf-textbook",
+    "number": 38,
+    "priority": 90,
+    "timestamp": 1772812134,
+    "title": "Expand theorem index: cross-link spectral and entropy-depth sections"
+  },
+  {
+    "id": "openpista/openpista#25",
+    "repo": "openpista/openpista",
+    "number": 25,
+    "priority": 81,
+    "timestamp": 1772812134,
+    "title": "feat(tui): Display [image] placeholder for image content in chat"
+  },
+  {
+    "id": "BigheadSMZ/Zelda-LA-DX-HD-Updated#654",
+    "repo": "BigheadSMZ/Zelda-LA-DX-HD-Updated",
+    "number": 654,
+    "priority": 77,
+    "timestamp": 1772812134,
+    "title": "OpenGL Branch: Linux + Android Ports"
+  },
+  {
+    "id": "enioxt/EGOS-Inteligencia#24",
+    "repo": "enioxt/EGOS-Inteligencia",
+    "number": 24,
+    "priority": 73,
+    "timestamp": 1772812134,
+    "title": "Mobile Responsive Improvements"
+  },
+  {
+    "id": "filiptrivan/sg-tools#8",
+    "repo": "filiptrivan/sg-tools",
+    "number": 8,
+    "priority": 99,
+    "timestamp": 1772812801,
+    "title": "Convert company logos to SVG format"
+  },
+  {
+    "id": "enioxt/EGOS-Inteligencia#21",
+    "repo": "enioxt/EGOS-Inteligencia",
+    "number": 21,
+    "priority": 100,
+    "timestamp": 1772812801,
+    "title": "[frontend] Help Wanted: Redesign website with better UX/UI"
+  },
+  {
+    "id": "rodclemen/color-inspector#1",
+    "repo": "rodclemen/color-inspector",
+    "number": 1,
+    "priority": 96,
+    "timestamp": 1772812801,
+    "title": "Add search/filter input to Color Inspector sidebar"
+  },
+  {
+    "id": "yhoungdev/typeorm-studio#8",
+    "repo": "yhoungdev/typeorm-studio",
+    "number": 8,
+    "priority": 61,
+    "timestamp": 1772812801,
+    "title": "feat: Improve visualizer UI with interactivity and details panel"
+  },
+  {
+    "id": "openpista/openpista#21",
+    "repo": "openpista/openpista",
+    "number": 21,
+    "priority": 96,
+    "timestamp": 1772812801,
+    "title": "feat(tui): Display [image] placeholder for image content in chat"
+  },
+  {
+    "id": "SynkraAI/aiox-core#466",
+    "repo": "SynkraAI/aiox-core",
+    "number": 466,
+    "priority": 60,
+    "timestamp": 1772814601,
+    "title": "[FEATURE] Native support for Anthropic's Programmatic Tool Calling (PTC) in Task Execution"
+  },
+  {
+    "id": "mkasberg/ghostty-ubuntu#176",
+    "repo": "mkasberg/ghostty-ubuntu",
+    "number": 176,
+    "priority": 100,
+    "timestamp": 1772814601,
+    "title": "This install script is not compatible with sparky."
+  },
+  {
+    "id": "starfish-graphics/gofish-graphics#240",
+    "repo": "starfish-graphics/gofish-graphics",
+    "number": 240,
+    "priority": 67,
+    "timestamp": 1772814601,
+    "title": "How can we do red-green-refactor in our workflow?"
+  },
+  {
+    "id": "datarhei/restreamer#969",
+    "repo": "datarhei/restreamer",
+    "number": 969,
+    "priority": 70,
+    "timestamp": 1772814601,
+    "title": "I am a beginner.  I need support to install"
+  },
+  {
+    "id": "SonixQMK/qmk_firmware#466",
+    "repo": "SonixQMK/qmk_firmware",
+    "number": 466,
+    "priority": 100,
+    "timestamp": 1772814601,
+    "title": "[Bug] USB device not recognized (Windows error)"
+  },
+  {
+    "id": "ublue-os/docs.bazzite.gg#380",
+    "repo": "ublue-os/docs.bazzite.gg",
+    "number": 380,
+    "priority": 72,
+    "timestamp": 1772816402,
+    "title": "Translate documentation"
+  },
+  {
+    "id": "777genius/claude-notifications-go#36",
+    "repo": "777genius/claude-notifications-go",
+    "number": 36,
+    "priority": 84,
+    "timestamp": 1772816402,
+    "title": "Feature Request: Click-to-Focus support for Windows"
+  },
+  {
+    "id": "rajmahadev422/Learn-To-PR#7",
+    "repo": "rajmahadev422/Learn-To-PR",
+    "number": 7,
+    "priority": 100,
+    "timestamp": 1772830969,
+    "title": "Wel come message",
+    "source": "proactive"
+  },
+  {
+    "id": "finnoybu/aegis-governance#12",
+    "repo": "finnoybu/aegis-governance",
+    "number": 12,
+    "priority": 100,
+    "timestamp": 1772830969,
+    "title": "[DOCS] Standardize Technical Documentation Headers Across Project",
+    "source": "proactive"
+  },
+  {
+    "id": "Vexa-ai/vexa#160",
+    "repo": "Vexa-ai/vexa",
+    "number": 160,
+    "priority": 100,
+    "timestamp": 1772832601,
+    "title": "Add read-only analytics API token to admin-api",
+    "source": "proactive"
+  },
+  {
+    "id": "rajmahadev422/Learn-To-PR#3",
+    "repo": "rajmahadev422/Learn-To-PR",
+    "number": 3,
+    "priority": 95,
+    "timestamp": 1772832601,
+    "title": "check-again",
+    "source": "proactive"
+  },
+  {
+    "id": "VATSIM-UK/UK-Sector-File#6064",
+    "repo": "VATSIM-UK/UK-Sector-File",
+    "number": 6064,
+    "priority": 100,
+    "timestamp": 1772832601,
+    "title": "Update Aldergrove Radar frequency",
+    "source": "proactive"
+  },
+  {
+    "id": "brendankowitz/FHIR-Tools-for-Anonymization#64",
+    "repo": "brendankowitz/FHIR-Tools-for-Anonymization",
+    "number": 64,
+    "priority": 99,
+    "timestamp": 1772832601,
+    "title": "Tech Debt: Split AnonymizationVisitorTests.cs (688 lines) into focused ...",
+    "source": "proactive"
+  },
+  {
+    "id": "brendankowitz/FHIR-Tools-for-Anonymization#63",
+    "repo": "brendankowitz/FHIR-Tools-for-Anonymization",
+    "number": 63,
+    "priority": 99,
+    "timestamp": 1772832601,
+    "title": "Tech Debt: Split GeneralizeProcessorTests.cs (502 lines) into focused t...",
+    "source": "proactive"
+  },
+  {
+    "id": "brendankowitz/FHIR-Tools-for-Anonymization#62",
+    "repo": "brendankowitz/FHIR-Tools-for-Anonymization",
+    "number": 62,
+    "priority": 99,
+    "timestamp": 1772834402,
+    "title": "Tech Debt: Split DifferentialPrivacyProcessorTests.cs (645 lines) into ...",
+    "source": "proactive"
+  },
+  {
+    "id": "cclib/cclib#1746",
+    "repo": "cclib/cclib",
+    "number": 1746,
+    "priority": 100,
+    "timestamp": 1772834402,
+    "title": "Standardize on `MissingAttributeError`",
+    "source": "proactive"
+  },
+  {
+    "id": "mynextproject-portfolio/recipe-explorer-lite-yuewang199511#1",
+    "repo": "mynextproject-portfolio/recipe-explorer-lite-yuewang199511",
+    "number": 1,
+    "priority": 100,
+    "timestamp": 1772834402,
+    "title": "Fix pytest deprecation warnings",
+    "source": "proactive"
+  },
+  {
+    "id": "Marormur/Website#163",
+    "repo": "Marormur/Website",
+    "number": 163,
+    "priority": 98,
+    "timestamp": 1772834402,
+    "title": "[Tech Debt] Remove Obsolete Modal IDs from Storage Service",
+    "source": "proactive"
+  },
+  {
+    "id": "Marormur/Website#158",
+    "repo": "Marormur/Website",
+    "number": 158,
+    "priority": 100,
+    "timestamp": 1772834402,
+    "title": "[Security] Fix npm Security Vulnerabilities (5 issues)",
+    "source": "proactive"
+  },
+  {
+    "id": "mynextproject-portfolio/recipe-explorer-lite-ildarakhmetov#1",
+    "repo": "mynextproject-portfolio/recipe-explorer-lite-ildarakhmetov",
+    "number": 1,
+    "priority": 100,
+    "timestamp": 1772836201,
+    "title": "Fix pytest deprecation warnings",
+    "source": "proactive"
+  },
+  {
+    "id": "Marormur/Website#160",
+    "repo": "Marormur/Website",
+    "number": 160,
+    "priority": 100,
+    "timestamp": 1772836201,
+    "title": "[Tech Debt] Remove Deprecated SessionManager Methods",
+    "source": "proactive"
+  },
+  {
+    "id": "PatrickB1905/wealthwise#12",
+    "repo": "PatrickB1905/wealthwise",
+    "number": 12,
+    "priority": 100,
+    "timestamp": 1772839801,
+    "title": "[Frontend] Inadequate validation for portfolio position inputs (quantity, prices, and trade dates)",
+    "source": "proactive"
+  },
+  {
+    "id": "GreatJobTommy/DIT-Transfer-Tools#73",
+    "repo": "GreatJobTommy/DIT-Transfer-Tools",
+    "number": 73,
+    "priority": 100,
+    "timestamp": 1772841601,
+    "title": "[Enhancement] Cloud Backup Presets",
+    "source": "proactive"
+  },
+  {
+    "id": "GreatJobTommy/DIT-Transfer-Tools#72",
+    "repo": "GreatJobTommy/DIT-Transfer-Tools",
+    "number": 72,
+    "priority": 100,
+    "timestamp": 1772841601,
+    "title": "[Enhancement] Configurable Verification Levels",
+    "source": "proactive"
+  }
 ]
