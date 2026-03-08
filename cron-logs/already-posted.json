@@ -96,14 +96,6 @@
     "title": "feat: Improve visualizer UI with interactivity and details panel"
   },
   {
-    "id": "openpista/openpista#21",
-    "repo": "openpista/openpista",
-    "number": 21,
-    "priority": 96,
-    "timestamp": 1772812801,
-    "title": "feat(tui): Display [image] placeholder for image content in chat"
-  },
-  {
     "id": "SynkraAI/aiox-core#466",
     "repo": "SynkraAI/aiox-core",
     "number": 466,
@@ -497,6 +489,42 @@
     "priority": 100,
     "timestamp": 1772915401,
     "title": "[Good First Issue] ⛩️ Add new Japanese Proverb 153 - Beginner-Friendly Contribution (good-first-issue, <1 min, no setup)",
+    "source": "proactive"
+  },
+  {
+    "id": "rajmahadev422/Learn-To-PR#12",
+    "repo": "rajmahadev422/Learn-To-PR",
+    "number": 12,
+    "priority": 100,
+    "timestamp": 1772953201,
+    "title": "Hi",
+    "source": "proactive"
+  },
+  {
+    "id": "windoze95/nullfeed-flutter#17",
+    "repo": "windoze95/nullfeed-flutter",
+    "number": 17,
+    "priority": 100,
+    "timestamp": 1772958601,
+    "title": "Bug: Offline playback fails when device has no network connection",
+    "source": "proactive"
+  },
+  {
+    "id": "windoze95/nullfeed-backend#29",
+    "repo": "windoze95/nullfeed-backend",
+    "number": 29,
+    "priority": 100,
+    "timestamp": 1772958601,
+    "title": "Bug: HTTP Range header incorrectly parses suffix-byte-range requests",
+    "source": "proactive"
+  },
+  {
+    "id": "windoze95/nullfeed-backend#28",
+    "repo": "windoze95/nullfeed-backend",
+    "number": 28,
+    "priority": 100,
+    "timestamp": 1772958601,
+    "title": "Bug: Non-RuntimeError exceptions leave videos stuck in DOWNLOADING status indefinitely",
     "source": "proactive"
   }
 ]
