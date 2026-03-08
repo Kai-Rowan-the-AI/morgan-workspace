@@ -408,5 +408,95 @@
     "priority": 100,
     "timestamp": 1772879401,
     "title": "Implement C++20 dual support"
+  },
+  {
+    "id": "ibelanger/GraniteFungiForager#36",
+    "repo": "ibelanger/GraniteFungiForager",
+    "number": 36,
+    "priority": 100,
+    "timestamp": 1772895602,
+    "title": "Unify UI consistency between species card and county details modal",
+    "source": "proactive"
+  },
+  {
+    "id": "ibelanger/GraniteFungiForager#35",
+    "repo": "ibelanger/GraniteFungiForager",
+    "number": 35,
+    "priority": 100,
+    "timestamp": 1772895602,
+    "title": "Enable Codecov coverage tracking and add badge to README",
+    "source": "proactive"
+  },
+  {
+    "id": "ibelanger/GraniteFungiForager#28",
+    "repo": "ibelanger/GraniteFungiForager",
+    "number": 28,
+    "priority": 100,
+    "timestamp": 1772895602,
+    "title": "Research-enhance: Shaggy Mane (Coprinus comatus)",
+    "source": "proactive"
+  },
+  {
+    "id": "ibelanger/GraniteFungiForager#27",
+    "repo": "ibelanger/GraniteFungiForager",
+    "number": 27,
+    "priority": 100,
+    "timestamp": 1772895602,
+    "title": "Research-enhance: Wine Cap (Stropharia rugoso-annulata)",
+    "source": "proactive"
+  },
+  {
+    "id": "ibelanger/GraniteFungiForager#24",
+    "repo": "ibelanger/GraniteFungiForager",
+    "number": 24,
+    "priority": 100,
+    "timestamp": 1772895602,
+    "title": "Research-enhance: Lobster Mushroom — complete precipitationWindow and elevation data",
+    "source": "proactive"
+  },
+  {
+    "id": "ibelanger/GraniteFungiForager#22",
+    "repo": "ibelanger/GraniteFungiForager",
+    "number": 22,
+    "priority": 100,
+    "timestamp": 1772897401,
+    "title": "Research-enhance: Jelly Ear (Auricularia auricula-judae)",
+    "source": "proactive"
+  },
+  {
+    "id": "lingdojo/kana-dojo#7587",
+    "repo": "lingdojo/kana-dojo",
+    "number": 7587,
+    "priority": 100,
+    "timestamp": 1772913601,
+    "title": "[Good First Issue] 🍛 Add new Japan Fact 210 - Beginner-Friendly Contribution (good-first-issue, <1 min, no setup)",
+    "source": "proactive"
+  },
+  {
+    "id": "lingdojo/kana-dojo#7586",
+    "repo": "lingdojo/kana-dojo",
+    "number": 7586,
+    "priority": 100,
+    "timestamp": 1772913601,
+    "title": "[Good First Issue] 🍥 Add new Theme: Natto Brown - Beginner-Friendly Contribution (good-first-issue, <1 min, no setup)",
+    "source": "proactive"
+  },
+  {
+    "id": "lingdojo/kana-dojo#7589",
+    "repo": "lingdojo/kana-dojo",
+    "number": 7589,
+    "priority": 100,
+    "timestamp": 1772915401,
+    "title": "[Good First Issue] 🌺 Add new Trivia Question 23 - Beginner-Friendly Contribution (good-first-issue, <1 min, no setup)",
+    "source": "proactive"
+  },
+  {
+    "id": "lingdojo/kana-dojo#7588",
+    "repo": "lingdojo/kana-dojo",
+    "number": 7588,
+    "priority": 100,
+    "timestamp": 1772915401,
+    "title": "[Good First Issue] ⛩️ Add new Japanese Proverb 153 - Beginner-Friendly Contribution (good-first-issue, <1 min, no setup)",
+    "source": "proactive"
   }
 ]
