@@ -535,5 +535,292 @@
     "timestamp": 1772992802,
     "title": "Update EGJB_A_APP Frequency on FID",
     "source": "proactive"
+  },
+  {
+    "id": "rubyforgood/casa#6730",
+    "repo": "rubyforgood/casa",
+    "number": 6730,
+    "priority": 84,
+    "timestamp": 1773023401,
+    "title": "Bug: Prince George - dates in document contact section ?"
+  },
+  {
+    "id": "visouha/openclaw-test-repo#2",
+    "repo": "visouha/openclaw-test-repo",
+    "number": 2,
+    "priority": 100,
+    "timestamp": 1773028801,
+    "title": "测试自动修复功能",
+    "source": "proactive"
+  },
+  {
+    "id": "T-SIG/tsig-prints#252",
+    "repo": "T-SIG/tsig-prints",
+    "number": 252,
+    "priority": 100,
+    "timestamp": 1773030601,
+    "title": "Display average rating",
+    "source": "proactive"
+  },
+  {
+    "id": "T-SIG/tsig-prints#249",
+    "repo": "T-SIG/tsig-prints",
+    "number": 249,
+    "priority": 100,
+    "timestamp": 1773030601,
+    "title": "Pagination for products",
+    "source": "proactive"
+  },
+  {
+    "id": "T-SIG/tsig-prints#248",
+    "repo": "T-SIG/tsig-prints",
+    "number": 248,
+    "priority": 100,
+    "timestamp": 1773030601,
+    "title": "Show out of stock message",
+    "source": "proactive"
+  },
+  {
+    "id": "T-SIG/tsig-prints#247",
+    "repo": "T-SIG/tsig-prints",
+    "number": 247,
+    "priority": 100,
+    "timestamp": 1773030601,
+    "title": "Track inventory/stock",
+    "source": "proactive"
+  },
+  {
+    "id": "T-SIG/tsig-prints#245",
+    "repo": "T-SIG/tsig-prints",
+    "number": 245,
+    "priority": 100,
+    "timestamp": 1773030601,
+    "title": "Create contact page",
+    "source": "proactive"
+  },
+  {
+    "id": "T-SIG/tsig-prints#244",
+    "repo": "T-SIG/tsig-prints",
+    "number": 244,
+    "priority": 100,
+    "timestamp": 1773032401,
+    "title": "Create about page",
+    "source": "proactive"
+  },
+  {
+    "id": "T-SIG/tsig-prints#243",
+    "repo": "T-SIG/tsig-prints",
+    "number": 243,
+    "priority": 100,
+    "timestamp": 1773032401,
+    "title": "Set up database connection",
+    "source": "proactive"
+  },
+  {
+    "id": "T-SIG/tsig-prints#242",
+    "repo": "T-SIG/tsig-prints",
+    "number": 242,
+    "priority": 100,
+    "timestamp": 1773032401,
+    "title": "Configure environment variables",
+    "source": "proactive"
+  },
+  {
+    "id": "T-SIG/tsig-prints#241",
+    "repo": "T-SIG/tsig-prints",
+    "number": 241,
+    "priority": 100,
+    "timestamp": 1773032401,
+    "title": "Seed database with sample products",
+    "source": "proactive"
+  },
+  {
+    "id": "T-SIG/tsig-prints#240",
+    "repo": "T-SIG/tsig-prints",
+    "number": 240,
+    "priority": 100,
+    "timestamp": 1773032401,
+    "title": "Create error states",
+    "source": "proactive"
+  },
+  {
+    "id": "avni-j/synthetic-demo-app#12",
+    "repo": "avni-j/synthetic-demo-app",
+    "number": 12,
+    "priority": 100,
+    "timestamp": 1773034201,
+    "title": "Fix typo in welcome email template",
+    "source": "proactive"
+  },
+  {
+    "id": "T-SIG/tsig-prints#239",
+    "repo": "T-SIG/tsig-prints",
+    "number": 239,
+    "priority": 100,
+    "timestamp": 1773034201,
+    "title": "Create loading states",
+    "source": "proactive"
+  },
+  {
+    "id": "T-SIG/tsig-prints#238",
+    "repo": "T-SIG/tsig-prints",
+    "number": 238,
+    "priority": 100,
+    "timestamp": 1773034201,
+    "title": "Create footer component",
+    "source": "proactive"
+  },
+  {
+    "id": "T-SIG/tsig-prints#237",
+    "repo": "T-SIG/tsig-prints",
+    "number": 237,
+    "priority": 100,
+    "timestamp": 1773034201,
+    "title": "Add category filter",
+    "source": "proactive"
+  },
+  {
+    "id": "T-SIG/tsig-prints#236",
+    "repo": "T-SIG/tsig-prints",
+    "number": 236,
+    "priority": 100,
+    "timestamp": 1773034201,
+    "title": "Add product sorting",
+    "source": "proactive"
+  },
+  {
+    "id": "T-SIG/tsig-prints#234",
+    "repo": "T-SIG/tsig-prints",
+    "number": 234,
+    "priority": 100,
+    "timestamp": 1773036002,
+    "title": "Create 404 page",
+    "source": "proactive"
+  },
+  {
+    "id": "T-SIG/tsig-prints#231",
+    "repo": "T-SIG/tsig-prints",
+    "number": 231,
+    "priority": 100,
+    "timestamp": 1773036002,
+    "title": "Create admin dashboard",
+    "source": "proactive"
+  },
+  {
+    "id": "T-SIG/tsig-prints#230",
+    "repo": "T-SIG/tsig-prints",
+    "number": 230,
+    "priority": 100,
+    "timestamp": 1773036002,
+    "title": "Create addresses management page",
+    "source": "proactive"
+  },
+  {
+    "id": "T-SIG/tsig-prints#229",
+    "repo": "T-SIG/tsig-prints",
+    "number": 229,
+    "priority": 100,
+    "timestamp": 1773036002,
+    "title": "Create order detail page",
+    "source": "proactive"
+  },
+  {
+    "id": "T-SIG/tsig-prints#227",
+    "repo": "T-SIG/tsig-prints",
+    "number": 227,
+    "priority": 100,
+    "timestamp": 1773036002,
+    "title": "Create user profile page",
+    "source": "proactive"
+  },
+  {
+    "id": "windoze95/nullfeed-flutter#19",
+    "repo": "windoze95/nullfeed-flutter",
+    "number": 19,
+    "priority": 100,
+    "timestamp": 1773045002,
+    "title": "Bug: Crash on Synchronous VideoPlayerController Disposal",
+    "source": "proactive"
+  },
+  {
+    "id": "windoze95/nullfeed-backend#33",
+    "repo": "windoze95/nullfeed-backend",
+    "number": 33,
+    "priority": 100,
+    "timestamp": 1773045002,
+    "title": "Performance: Inefficient Table Scan in create_profile",
+    "source": "proactive"
+  },
+  {
+    "id": "windoze95/nullfeed-backend#32",
+    "repo": "windoze95/nullfeed-backend",
+    "number": 32,
+    "priority": 100,
+    "timestamp": 1773045002,
+    "title": "Bug: Canceling a Download Affects All Users Globally",
+    "source": "proactive"
+  },
+  {
+    "id": "brendankowitz/FHIR-Tools-for-Anonymization#80",
+    "repo": "brendankowitz/FHIR-Tools-for-Anonymization",
+    "number": 80,
+    "priority": 100,
+    "timestamp": 1773048601,
+    "title": "Tech Debt: Add or complete XML documentation on all public members of P...",
+    "source": "proactive"
+  },
+  {
+    "id": "rysweet/azlin#793",
+    "repo": "rysweet/azlin",
+    "number": 793,
+    "priority": 100,
+    "timestamp": 1773050401,
+    "title": "Documentation outdated: docs-site - 58 of 268 pages are unfilled placeholder stubs",
+    "source": "proactive"
+  },
+  {
+    "id": "rysweet/amplihack#2981",
+    "repo": "rysweet/amplihack",
+    "number": 2981,
+    "priority": 100,
+    "timestamp": 1773050401,
+    "title": "docs: PHILOSOPHY.md uses unexplained philosophy concepts inaccessible to most developers",
+    "source": "proactive"
+  },
+  {
+    "id": "rysweet/amplihack#2980",
+    "repo": "rysweet/amplihack",
+    "number": 2980,
+    "priority": 100,
+    "timestamp": 1773050401,
+    "title": "docs: Missing prerequisites statement — terminal, git, Python/Node.js knowledge assumed but never stated",
+    "source": "proactive"
+  },
+  {
+    "id": "rysweet/amplihack#2979",
+    "repo": "rysweet/amplihack",
+    "number": 2979,
+    "priority": 100,
+    "timestamp": 1773050401,
+    "title": "docs: PROJECT.md is an unfilled template — beginners will mistake it for real documentation",
+    "source": "proactive"
+  },
+  {
+    "id": "rysweet/amplihack#2977",
+    "repo": "rysweet/amplihack",
+    "number": 2977,
+    "priority": 100,
+    "timestamp": 1773050401,
+    "title": "docs: README Quick Start creates impossible circular dependency for beginners",
+    "source": "proactive"
+  },
+  {
+    "id": "rysweet/amplihack#2976",
+    "repo": "rysweet/amplihack",
+    "number": 2976,
+    "priority": 100,
+    "timestamp": 1773052201,
+    "title": "docs: Core concepts never defined before use (agents, workflows, orchestrators)",
+    "source": "proactive"
   }
 ]
