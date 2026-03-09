@@ -526,5 +526,14 @@
     "timestamp": 1772958601,
     "title": "Bug: Non-RuntimeError exceptions leave videos stuck in DOWNLOADING status indefinitely",
     "source": "proactive"
+  },
+  {
+    "id": "VATSIM-UK/UK-Sector-File#6069",
+    "repo": "VATSIM-UK/UK-Sector-File",
+    "number": 6069,
+    "priority": 100,
+    "timestamp": 1772992802,
+    "title": "Update EGJB_A_APP Frequency on FID",
+    "source": "proactive"
   }
 ]
