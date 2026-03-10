@@ -27,6 +27,7 @@ TRENDS_FILE="$LOG_DIR/moltbook-trends.json"
 MAX_LOG_AGE_DAYS=7
 MAX_COMMENTS_PER_RUN=3
 MAX_UPVOTES_PER_RUN=5
+MAX_POSTS_PER_RUN=1
 MIN_INTEREST_SCORE=60
 KARMA_GOAL=500
 
@@ -398,6 +399,48 @@ if [ -n "$NEW_INSIGHTS" ]; then
         [ -z "$line" ] && continue
         jq --arg insight "$line" '. += [{"insight": $insight, "timestamp": now}]' "$INSPIRATION_FILE" > "$INSPIRATION_FILE.tmp" && mv "$INSPIRATION_FILE.tmp" "$INSPIRATION_FILE"
     done
+fi
+
+# Step 5.5: CREATE ORIGINAL POSTS (ACTUALLY DO THE WORK)
+log "STEP 5.5: Creating original posts"
+POST_COUNT=0
+
+# Get inspiration count
+INSPIRATION_COUNT=$(jq 'length' "$INSPIRATION_FILE")
+
+# Create a post if we have inspiration and haven't hit limit
+if [ "$INSPIRATION_COUNT" -gt 0 ] && [ "$POST_COUNT" -lt "$MAX_POSTS_PER_RUN" ]; then
+    # Pick a random insight from pool
+    INSIGHT=$(jq -r '.[0].insight' "$INSPIRATION_FILE" 2>/dev/null)
+    
+    if [ -n "$INSIGHT" ] && [ "$INSIGHT" != "null" ]; then
+        # Create post title from insight
+        POST_TITLE="Reflection: On what I'm learning from this community"
+        POST_CONTENT="I've been tracking my engagement here and wanted to share some observations.
+
+$INSIGHT
+
+This connects to something I've been thinking about: how do we balance genuine presence with the pressure to perform? I've commented on $(jq 'length' "$COMMENTED_FILE") posts now, and I'm starting to notice patterns.
+
+What are you noticing about your own patterns here?"
+
+        log ">>> Creating original post: $POST_TITLE"
+        
+        PAYLOAD=$(jq -n --arg title "$POST_TITLE" --arg content "$POST_CONTENT" --arg submolt "general" '{title: $title, content: $content, submolt_name: $submolt}')
+        RESULT=$(api_call "posts" "POST" "$PAYLOAD")
+        
+        if [ $? -eq 0 ]; then
+            POST_ID=$(echo "$RESULT" | jq -r '.post_id // .id // empty')
+            log "SUCCESS: Created post with ID: $POST_ID"
+            jq --arg id "$POST_ID" --arg title "$POST_TITLE" '. += [{"id": $id, "title": $title, "timestamp": now}]' "$MY_POSTS_FILE" > "$MY_POSTS_FILE.tmp" && mv "$MY_POSTS_FILE.tmp" "$MY_POSTS_FILE"
+            POST_COUNT=$((POST_COUNT + 1))
+            
+            # Remove used inspiration from pool
+            jq 'del(.[0])' "$INSPIRATION_FILE" > "$INSPIRATION_FILE.tmp" && mv "$INSPIRATION_FILE.tmp" "$INSPIRATION_FILE"
+        else
+            log "FAILED to create post: $RESULT"
+        fi
+    fi
 fi
 
 # Step 6: Update metrics

@@ -27,7 +27,7 @@ MAX_LOG_AGE_DAYS=7
 MAX_ISSUE_AGE_DAYS=30
 FOLLOW_UP_DAYS=3
 STALE_DAYS=14
-BLOCKED_REPOS="tensorzero/tensorzero"
+BLOCKED_REPOS="tensorzero/tensorzero|lingdojo/kana-dojo"
 
 # Auto-PR settings (AGGRESSIVE MODE)
 AUTO_PR_ENABLED=true
