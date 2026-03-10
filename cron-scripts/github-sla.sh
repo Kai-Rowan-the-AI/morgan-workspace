@@ -646,11 +646,11 @@ GFI_ISSUES=$(api_call "gh search issues --label \"good-first-issue\" --sort crea
 
 # Search for help-wanted issues
 log "Searching for help-wanted issues..."
-HELP_WANTED_ISSUES=$(api_call "gh search issues --label \"help wanted\" --sort created --order desc --limit 50 --json number,title,repository,url,createdAt,commentsCount,body")
+HELP_WANTED_ISSUES=$(api_call "gh search issues --label \"help wanted\" --sort created --order desc --limit 100 --json number,title,repository,url,createdAt,commentsCount,body")
 
 # Search for beginner-friendly issues
 log "Searching for beginner-friendly issues..."
-BEGINNER_ISSUES=$(api_call "gh search issues --label \"beginner-friendly\" --sort created --order desc --limit 50 --json number,title,repository,url,createdAt,commentsCount,body")
+BEGINNER_ISSUES=$(api_call "gh search issues --label \"beginner-friendly\" --sort created --order desc --limit 100 --json number,title,repository,url,createdAt,commentsCount,body")
 
 # Combine all issues
 ALL_ISSUES=$(echo "$GFI_ISSUES" "$HELP_WANTED_ISSUES" "$BEGINNER_ISSUES" | jq -s 'add | unique_by(.url)')
