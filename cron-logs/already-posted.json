@@ -957,5 +957,68 @@
     "timestamp": 1773151201,
     "title": "Create order confirmation page",
     "source": "proactive"
+  },
+  {
+    "id": "f3d-app/f3d#2929",
+    "repo": "f3d-app/f3d",
+    "number": 2929,
+    "priority": 70,
+    "timestamp": 1773174491,
+    "title": "Image Readers do not report errors properly",
+    "source": "manual-fix"
+  },
+  {
+    "id": "tektoncd/pipeline#9551",
+    "repo": "tektoncd/pipeline",
+    "number": 9551,
+    "priority": 65,
+    "timestamp": 1773174491,
+    "title": "Expand step-security/harden-runner to more workflows",
+    "source": "manual-fix"
+  },
+  {
+    "id": "99lash/BorrowHub#10",
+    "repo": "99lash/BorrowHub",
+    "number": 10,
+    "priority": 100,
+    "timestamp": 1773174601,
+    "title": "[BUG] Backend API defaults to SQLite instead of MySQL",
+    "source": "proactive"
+  },
+  {
+    "id": "AbdulMoeez1278/moizy-open-source-issues#38",
+    "repo": "AbdulMoeez1278/moizy-open-source-issues",
+    "number": 38,
+    "priority": 100,
+    "timestamp": 1773174601,
+    "title": "Feature: Implement a ```debounce()``` Utility for Optimizing Frequent Function Calls",
+    "source": "proactive"
+  },
+  {
+    "id": "DimitriFrischmann/Libration#11",
+    "repo": "DimitriFrischmann/Libration",
+    "number": 11,
+    "priority": 100,
+    "timestamp": 1773174601,
+    "title": "How to secure API keys in Jupyter notebooks for ML?",
+    "source": "proactive"
+  },
+  {
+    "id": "LilBoooopp/transcendence#58",
+    "repo": "LilBoooopp/transcendence",
+    "number": 58,
+    "priority": 100,
+    "timestamp": 1773174601,
+    "title": "Routing checks",
+    "source": "proactive"
+  },
+  {
+    "id": "Precipice-Games/untitled-26#213",
+    "repo": "Precipice-Games/untitled-26",
+    "number": 213,
+    "priority": 100,
+    "timestamp": 1773174601,
+    "title": "Debug & Test the GameStateManager Assignments of the Current State",
+    "source": "proactive"
   }
 ]

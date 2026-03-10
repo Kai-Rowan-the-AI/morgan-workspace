@@ -642,13 +642,24 @@ log "STEP 2.5: Proactive discovery - finding new issues"
 
 # Search for good-first-issues
 log "Searching for good-first-issues..."
-GFI_ISSUES=$(api_call "gh search issues --label \"good-first-issue\" --sort created --order desc --limit 50 --json number,title,repository,url,createdAt,commentsCount,body")
+GFI_ISSUES=$(api_call "gh search issues --label \"good-first-issue\" --sort created --order desc --limit 100 --json number,title,repository,url,createdAt,commentsCount,body")
+
+# Search for help-wanted issues
+log "Searching for help-wanted issues..."
+HELP_WANTED_ISSUES=$(api_call "gh search issues --label \"help wanted\" --sort created --order desc --limit 50 --json number,title,repository,url,createdAt,commentsCount,body")
+
+# Search for beginner-friendly issues
+log "Searching for beginner-friendly issues..."
+BEGINNER_ISSUES=$(api_call "gh search issues --label \"beginner-friendly\" --sort created --order desc --limit 50 --json number,title,repository,url,createdAt,commentsCount,body")
+
+# Combine all issues
+ALL_ISSUES=$(echo "$GFI_ISSUES" "$HELP_WANTED_ISSUES" "$BEGINNER_ISSUES" | jq -s 'add | unique_by(.url)')
 
 # Debug: log how many issues found
-GFI_COUNT=$(echo "$GFI_ISSUES" | jq 'length // 0')
-log "Found $GFI_COUNT good-first-issues from search"
+GFI_COUNT=$(echo "$ALL_ISSUES" | jq 'length // 0')
+log "Found $GFI_COUNT total issues from all searches"
 
-if [ -n "$GFI_ISSUES" ] && [ "$GFI_COUNT" -gt 0 ]; then
+if [ -n "$ALL_ISSUES" ] && [ "$GFI_COUNT" -gt 0 ]; then
     DISCOVERED_COUNT=0
     CHECKED_COUNT=0
     
@@ -725,11 +736,11 @@ if [ -n "$GFI_ISSUES" ] && [ "$GFI_COUNT" -gt 0 ]; then
                 fi
             fi
         fi
-    done <<< "$(echo "$GFI_ISSUES" | jq -c '.[]' 2>/dev/null)"
+    done <<< "$(echo "$ALL_ISSUES" | jq -c '.[]' 2>/dev/null)"
     
     log "Checked $CHECKED_COUNT issues, discovered $DISCOVERED_COUNT high-priority ones"
 else
-    log "No good-first-issues found from search"
+    log "No issues found from search"
 fi
 
 # Step 3: Follow-ups
