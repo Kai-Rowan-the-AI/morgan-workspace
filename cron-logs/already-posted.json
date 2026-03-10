@@ -885,5 +885,68 @@
     "timestamp": 1773091801,
     "title": "Seed contributor intake with labels and starter issues",
     "source": "proactive"
+  },
+  {
+    "id": "7788ken/linkgate#7",
+    "repo": "7788ken/linkgate",
+    "number": 7,
+    "priority": 100,
+    "timestamp": 1773109802,
+    "title": "✅ Add CONTRIBUTING.md and Code of Conduct",
+    "source": "proactive"
+  },
+  {
+    "id": "7788ken/linkgate#3",
+    "repo": "7788ken/linkgate",
+    "number": 3,
+    "priority": 100,
+    "timestamp": 1773109802,
+    "title": "📈 Improve test coverage to > 80%",
+    "source": "proactive"
+  },
+  {
+    "id": "7788ken/linkgate#13",
+    "repo": "7788ken/linkgate",
+    "number": 13,
+    "priority": 100,
+    "timestamp": 1773111601,
+    "title": "📈 Improve test coverage to > 80%",
+    "source": "proactive"
+  },
+  {
+    "id": "aonyx-ai/doco#229",
+    "repo": "aonyx-ai/doco",
+    "number": 229,
+    "priority": 100,
+    "timestamp": 1773144001,
+    "title": "Add vec-based cmd builder method for Server and Service",
+    "source": "proactive"
+  },
+  {
+    "id": "PretendoNetwork/juxtaposition#411",
+    "repo": "PretendoNetwork/juxtaposition",
+    "number": 411,
+    "priority": 70,
+    "timestamp": 1773149421,
+    "title": "Open applet to game community if in-game",
+    "source": "manual-fix"
+  },
+  {
+    "id": "T-SIG/tsig-prints#226",
+    "repo": "T-SIG/tsig-prints",
+    "number": 226,
+    "priority": 65,
+    "timestamp": 1773149421,
+    "title": "Create register page",
+    "source": "manual-fix"
+  },
+  {
+    "id": "T-SIG/tsig-prints#225",
+    "repo": "T-SIG/tsig-prints",
+    "number": 225,
+    "priority": 65,
+    "timestamp": 1773149421,
+    "title": "Create login page",
+    "source": "manual-fix"
   }
 ]

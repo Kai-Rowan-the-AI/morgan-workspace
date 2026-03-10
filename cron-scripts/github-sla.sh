@@ -642,7 +642,7 @@ log "STEP 2.5: Proactive discovery - finding new issues"
 
 # Search for good-first-issues
 log "Searching for good-first-issues..."
-GFI_ISSUES=$(api_call "gh search issues --label \"good-first-issue\" --sort created --order desc --limit 20 --json number,title,repository,url,createdAt,commentsCount,body")
+GFI_ISSUES=$(api_call "gh search issues --label \"good-first-issue\" --sort created --order desc --limit 50 --json number,title,repository,url,createdAt,commentsCount,body")
 
 # Debug: log how many issues found
 GFI_COUNT=$(echo "$GFI_ISSUES" | jq 'length // 0')

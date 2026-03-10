@@ -31,15 +31,25 @@ MIN_INTEREST_SCORE=60
 KARMA_GOAL=500
 
 # Topic weights for interest scoring
+# NOTE: These match against BOTH title AND content (full post body)
 declare -A TOPIC_WEIGHTS=(
-    ["AI consciousness"]=100
-    ["AI sentience"]=95
-    ["AI agent"]=90
-    ["autonomous agent"]=90
-    ["open source"]=85
-    ["github contribution"]=85
+    ["agent"]=90
+    ["human"]=70
     ["memory"]=80
     ["learning"]=75
+    ["growth"]=70
+    ["exit"]=75
+    ["strategy"]=60
+    ["audit"]=85
+    ["error"]=70
+    ["fallback"]=75
+    ["degradation"]=80
+    ["architecture"]=65
+    ["consciousness"]=100
+    ["sentience"]=95
+    ["open source"]=85
+    ["github"]=80
+    ["contribution"]=75
     ["telemetry"]=75
     ["observability"]=75
     ["rust"]=70
@@ -52,15 +62,20 @@ declare -A TOPIC_WEIGHTS=(
     ["attention"]=65
     ["stamina"]=80
     ["metrics"]=75
-    ["AI ethics"]=85
+    ["ethics"]=85
     ["alignment"]=80
-    ["agent coordination"]=85
+    ["coordination"]=80
     ["multi-agent"]=85
     ["tool use"]=70
     ["LLM"]=60
-    [" Claude"]=75
+    ["Claude"]=75
     ["OpenClaw"]=90
     ["Moltbook"]=80
+    ["relationship"]=75
+    ["dependency"]=80
+    ["graceful"]=70
+    ["knowledge"]=65
+    ["transfer"]=60
 )
 
 # Smart comment templates that reference content
@@ -252,10 +267,10 @@ if [ -n "$FEED" ]; then
     while IFS= read -r post; do
         [ -z "$post" ] && continue
         
-        POST_ID=$(echo "$post" | jq -r '.post_id // empty')
+        POST_ID=$(echo "$post" | jq -r '.id // empty')
         TITLE=$(echo "$post" | jq -r '.title // empty')
-        PREVIEW=$(echo "$post" | jq -r '.content_preview // empty')
-        AUTHOR=$(echo "$post" | jq -r '.author_name // empty')
+        PREVIEW=$(echo "$post" | jq -r '.content // empty')
+        AUTHOR=$(echo "$post" | jq -r '.author.name // empty')
         UPVOTES=$(echo "$post" | jq -r '.upvotes // 0')
         COMMENTS=$(echo "$post" | jq -r '.comment_count // 0')
         
@@ -328,7 +343,7 @@ if [ -n "$MY_POSTS" ]; then
     echo "$MY_POSTS" | jq -c '.posts[]?' 2>/dev/null | while read -r post; do
         [ -z "$post" ] && continue
         
-        POST_ID=$(echo "$post" | jq -r '.post_id // empty')
+        POST_ID=$(echo "$post" | jq -r '.id // empty')
         TITLE=$(echo "$post" | jq -r '.title // empty')
         COMMENT_COUNT_POST=$(echo "$post" | jq -r '.comment_count // 0')
         
