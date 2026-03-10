@@ -822,5 +822,68 @@
     "timestamp": 1773052201,
     "title": "docs: Core concepts never defined before use (agents, workflows, orchestrators)",
     "source": "proactive"
+  },
+  {
+    "id": "EndlessPixel/EndlessPixel-Modpack#35",
+    "repo": "EndlessPixel/EndlessPixel-Modpack",
+    "number": 35,
+    "priority": 100,
+    "timestamp": 1773066601,
+    "title": "[Request] The version on Modrinth has not been updated to 3.0",
+    "source": "proactive"
+  },
+  {
+    "id": "rajmahadev422/Learn-To-PR#16",
+    "repo": "rajmahadev422/Learn-To-PR",
+    "number": 16,
+    "priority": 100,
+    "timestamp": 1773073802,
+    "title": "Your contributors page is static , please make it dyanamic",
+    "source": "proactive"
+  },
+  {
+    "id": "djangonaut-space/wagtail-indymeet#713",
+    "repo": "djangonaut-space/wagtail-indymeet",
+    "number": 713,
+    "priority": 100,
+    "timestamp": 1773086401,
+    "title": "If you go to the login page, while being logged, it doesn't automatically send you to the redirect URL.",
+    "source": "proactive"
+  },
+  {
+    "id": "kobepaw/goop-veil#15",
+    "repo": "kobepaw/goop-veil",
+    "number": 15,
+    "priority": 100,
+    "timestamp": 1773091801,
+    "title": "Improve false positive/false negative intake docs",
+    "source": "proactive"
+  },
+  {
+    "id": "kobepaw/goop-veil#13",
+    "repo": "kobepaw/goop-veil",
+    "number": 13,
+    "priority": 100,
+    "timestamp": 1773091801,
+    "title": "Audit README command examples against current CLI output",
+    "source": "proactive"
+  },
+  {
+    "id": "kobepaw/goop-veil#12",
+    "repo": "kobepaw/goop-veil",
+    "number": 12,
+    "priority": 100,
+    "timestamp": 1773091801,
+    "title": "Add VEIL_LOG_SIGNING_KEY setup docs to one obvious contributor path",
+    "source": "proactive"
+  },
+  {
+    "id": "kobepaw/goop-veil#11",
+    "repo": "kobepaw/goop-veil",
+    "number": 11,
+    "priority": 100,
+    "timestamp": 1773091801,
+    "title": "Seed contributor intake with labels and starter issues",
+    "source": "proactive"
   }
 ]
